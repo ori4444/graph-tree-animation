@@ -8,8 +8,7 @@ cd graph-tree-animation
 
 
 4. Run the animation
-Windows (double-click):
-run_tree.bat
+.\run_tree.bat
 
 Or manually:
 manim -pqh main.py GraphTree
